@@ -5,6 +5,7 @@ The directory contains:
 -A file for function minimization
 
 ////////////////Simulation Setup///////////////////
+
 a)The centre of trackers is set in function Initialize()
 
 b)The intersection between the trackers' plane and the muon line is decided in Projection
